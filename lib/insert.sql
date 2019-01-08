@@ -18,5 +18,3 @@ INSERT INTO users (name, age) VALUES ('Whale', 6);
 INSERT INTO users (name, age) VALUES ('Pacha', 5);
 INSERT INTO users (name, age) VALUES ('Ena', 24);
 INSERT INTO users (name, age) VALUES ('Katie', 24);
-
-(5, ), (6, ), (7, )
