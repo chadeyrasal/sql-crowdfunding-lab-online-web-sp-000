@@ -19,26 +19,26 @@ INSERT INTO users (name, age) VALUES ('Pacha', 5);
 INSERT INTO users (name, age) VALUES ('Ena', 24);
 INSERT INTO users (name, age) VALUES ('Katie', 24);
 
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) 
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
   VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) 
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
   VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) 
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
   VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) 
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
   VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) 
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
   VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) 
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
   VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) 
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
   VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) 
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
   VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) 
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
   VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) 
-  VALUES ('Help me buy a guitar', 'music', 500.00, '2013-06-30', '2013-07-30');
+INSERT INTO projects (title, category, funding_goal, start_date, end_date)
+  VALUES ('Help save birds of paradise', 'charity', 5000.00, '2012-03-20', '2013-06-30');
 
 
 
@@ -51,4 +51,4 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 (7, 'Iguana needs tail operation', 'charity', 2000.00, '2013-10-02', '2013-10-30'),
 (8, 'I have bed bugs!', 'charity', 800.00, '2014-06-30', '2014-06-31'),
 (9, 'I want to teach English in China', 'charity', 3000.00, '2013-06-30', '2013-09-30'),
-(10, 'Help save birds of paradise', 'charity', 5000.00, '2012-03-20', '2013-06-30');
+(10, );
