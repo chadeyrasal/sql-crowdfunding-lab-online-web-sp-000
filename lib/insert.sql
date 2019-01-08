@@ -47,7 +47,7 @@ INSERT INTO pledges (amount, user_id, project_id) VALUES (10, 1, 2);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (10, 1, 2);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (10, 1, 2);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (10, 1, 2);
-INSERT INTO pledges (amount, user_id, project_id) VALUES (10, 1, 2);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (60, 6, 10);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (50, 7, 9);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (700, 8, 8);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (1000, 8, 7);
