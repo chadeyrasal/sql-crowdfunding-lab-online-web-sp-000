@@ -43,7 +43,7 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 INSERT INTO pledges (amount, user_id, project_id) VALUES (10, 1, 2);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (10, 1, 2);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (10, 1, 2);
-INSERT INTO pledges (amount, user_id, project_id) VALUES (10, 1, 2);
+INSERT INTO pledges (amount, user_id, project_id) VALUES (50, 2, 3);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (10, 3, 2);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (20, 4, 4);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (40, 5, 10);
@@ -71,4 +71,4 @@ INSERT INTO pledges (amount, user_id, project_id) VALUES (90, 17, 9);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (230, 16, 6);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (450, 15, 5);
 
-  (2, 20.00, 1, 3) (3, 40.00, 1, 4),(4, 50.00, 2, 3),(5, 10.00, 3, 2)
+  (2, 20.00, 1, 3) (3, 40.00, 1, 4),(4, 50.00, 2, 3)
