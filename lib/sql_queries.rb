@@ -20,6 +20,7 @@ def selects_the_user_name_age_and_pledge_amount_for_all_pledges_alphabetized_by_
   FROM users
   JOIN pledges
   ON users.id = pledges.user_id
+  GROUP BY pledges.user_id
   ORDER BY users.name"
 end
 
