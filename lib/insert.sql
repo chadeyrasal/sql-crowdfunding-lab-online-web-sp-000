@@ -39,10 +39,3 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date)
   VALUES ('I want to teach English in China', 'charity', 3000.00, '2013-06-30', '2013-09-30');
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
   VALUES ('Help save birds of paradise', 'charity', 5000.00, '2012-03-20', '2013-06-30');
-
-(2, ),
-(3, ),
-(4, ),
-(5, ),
-(6, ),
-(7, ),
